@@ -15,5 +15,5 @@ Art by https://bevouliin.com/
 - Score display
 - Audio visual effects triggered events
 
-# # Controls:
+## Controls:
 Move mouse and shoot with left click
