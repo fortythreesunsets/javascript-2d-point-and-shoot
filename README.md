@@ -1,6 +1,8 @@
 # JavaScript 2D Point & Shoot
 
-Live Demo: https://codepen.io/fortythreesunsets/pen/ZYGZEWm Art by https://bevouliin.com/
+Live Demo: https://codepen.io/fortythreesunsets/pen/bNEGZdp
+
+Art by https://bevouliin.com/
 
 # # Technologies used:
 - HTML
