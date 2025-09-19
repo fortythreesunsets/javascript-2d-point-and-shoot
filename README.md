@@ -4,12 +4,12 @@ Live Demo: https://codepen.io/fortythreesunsets/pen/bNEGZdp
 
 Art by https://bevouliin.com/
 
-# # Technologies used:
+## Technologies used:
 - HTML
 - CSS
 - Vanilla JavaScript
 
-# # Features:
+## Features:
 - Sprite animation
 - Collision detection
 - Score display
